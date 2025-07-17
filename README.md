@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Naga Dinesh Mesaragandla
+### Aspiring Software Engineer | Full-Stack Developer | Machine Learning Enthusiast
 
-<!--
-**Dineshmnd2004/Dineshmnd2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I love building full-stack web apps and experimenting with ML projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio
+🔗 [My Website](https://Dineshmnd2004.github.io/portfolio-site)
+
+### 📫 Contact Me
+- Email: mndinesh379@gmail.com
+- LinkedIn: [linkedin.com/in/naga-dinesh-091087339](https://linkedin.com/in/naga-dinesh-091087339)
+- GitHub: [github.com/Dineshmnd2004](https://github.com/Dineshmnd2004)
+
+---
+
+### 🛠️ Tech Stack
+`Python` `HTML` `CSS` `JavaScript` `Flask` `MongoDB` `MySQL` `Git`
+
+---
+
+### 🧠 Projects
+- 🍬 **Sweet Delights ML Website** – Full-stack sweet ordering system + Apriori-based recommendations
+- 🧠 **Mental Health Detection** – CNN model to detect emotions from facial expressions
+- 💊 **ENT Prescription Prediction** – ML model to predict prescriptions based on patient data
+
+---
+
+### 📜 Certifications
+- Python Basics (Coursera)
+- AI & ML (IBM SkillsBuild)
+- PHP & Linux Fundamentals (Coursera)
+
+---
+
+📈 **Currently working on**: More real-time ML applications & improving my backend dev skills!
+
