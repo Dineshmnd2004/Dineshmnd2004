@@ -21,16 +21,23 @@ I love building full-stack web apps and experimenting with ML projects.
 ---
 
 🧠 Projects
-- 🍬 **Sweet Delights ML Website** – Full-stack sweet ordering system + Apriori-based recommendations
-- 🧠 **Mental Health Detection** – CNN model to detect emotions from facial expressions
-- 💊 **ENT Prescription Prediction** – ML model to predict prescriptions based on patient data
+- **Sweet Delights ML Website** – Full-stack sweet ordering system + Apriori-based recommendations
+- **Mental Health Detection** – CNN model to detect emotions from facial expressions
+- **ENT Prescription Prediction** – ML model to predict prescriptions based on patient data
+- **Afford URL Shortener** - A React-based web application that allows users to shorten long URLs into compact, shareable links.
+- **GUVI Sign In and Login Pages** - A responsive React project that demonstrates user authentication interface design, featuring clean and modern sign-in and login pages.
+- **ToDo List Manager** - A simple yet functional desktop app for managing daily tasks. Implemented using Java, focusing on CRUD operations and file handling.
 
+React.js
+HTML
+CSS
+JavaScript
+API Integration
 ---
 
 📜 Certifications
 - Python Basics (Coursera)
 - AI & ML (IBM SkillsBuild)
-- PHP & Linux Fundamentals (Coursera)
 
 ---
 
