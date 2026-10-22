@@ -16,7 +16,7 @@ I love building full-stack web apps and experimenting with ML projects.
 ---
 
 🛠️ Tech Stack
-`Python` `HTML` `CSS` `JavaScript` `Flask` `MongoDB` `MySQL` `Git`
+`Python` `HTML` `CSS` `JavaScript` `Flask`  `MySQL` `Git` 
 
 ---
 
@@ -28,11 +28,15 @@ I love building full-stack web apps and experimenting with ML projects.
 - **GUVI Sign In and Login Pages** - A responsive React project that demonstrates user authentication interface design, featuring clean and modern sign-in and login pages.
 - **ToDo List Manager** - A simple yet functional desktop app for managing daily tasks. Implemented using Java, focusing on CRUD operations and file handling.
 
-React.js
 HTML
 CSS
 JavaScript
+Flask
+MySQL
+RestAPIs
 API Integration
+AI & ML
+
 ---
 
 📜 Certifications
